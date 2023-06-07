@@ -1,2 +1,5 @@
 def conv_to_uppercase(input_string):
-    return input_string.upper()
+"""
+docstring
+"""
+return input_string.upper()
